@@ -1,0 +1,1 @@
+# szandras_first_rails_app
